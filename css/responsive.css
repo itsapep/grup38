@@ -1,0 +1,19 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+    nav ul li {
+        padding: 10px  15px;
+    } 
+}
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+    nav ul li {
+        display: none;
+    }
+    a.btn{
+        display: none;
+    }
+    span.menu-icon{
+        display:block;
+    }
+}

@@ -43,6 +43,13 @@ nav ul li a:hover{
 	color: #f9004d;
 	transition: .4s;
 }
+span.menu-icon {
+    color:white;
+    float:right;
+    padding-bottom: 9px;
+    font-size:25px;
+    display:none;
+}
 .btn{
 	background-color:#f9004d;
 	color: white;
