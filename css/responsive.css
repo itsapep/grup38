@@ -2,7 +2,21 @@
 @media all and (max-width: 1000px) {
     nav ul li {
         padding: 10px  15px;
-    } 
+    }
+     .title h2 {
+        font-size: 60px;
+        text-align: center;
+    }
+    .hero{
+	   height: 110vh;
+    }
+    .box {
+        flex-wrap: wrap;
+     }
+     .column.side{
+	  width: 50%;
+	  margin-top: 20;
+    }
 }
 
 /* For Smartphones */
