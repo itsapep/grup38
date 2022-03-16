@@ -98,11 +98,12 @@ h4{
 .about{
 	width: 100%;
 	padding: 100px 0px;
-	background-color: #191919;
+	background-color: #101010;
 }
 .about img{
 	height: auto;
-	width: 430px;
+	width:  400px;
+	padding: 100px 50px 20px 70px;
 }
 .about-text{
 	width: 550px;
@@ -121,19 +122,31 @@ h4{
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
-.about-text h5{
-	color: white;
-	letter-spacing: 2px;
-	font-size: 22px;
-	margin-bottom: 25px;
-	text-transform: capitalize;
+.lesson {
+  float: left;
+  width: 100%;
+  padding: 50px 0px;
 }
-.about-text p{
-	color: #fcfc;
-	letter-spacing: 1px;
-	line-height: 28px;
-	font-size: 18px;
-	margin-bottom: 45px;
+
+.lesson-icon {
+  position: relative;
+
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  color: white;
+  font-size: 30px;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 20px;
+  color: #b3aeb5;
 }
 button{
 	background-color:#f9004d;
