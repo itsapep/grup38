@@ -16,4 +16,10 @@
     span.menu-icon{
         display:block;
     }
+    .content {
+        top:30%;
+    }
+    .main {
+        flex-wrap: wrap;
+    }
 }
