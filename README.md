@@ -7,7 +7,7 @@ Website kami merupakan halaman utama dari *pseudo company* **"ANALYTICS"** yang 
 ## Teams
 Anggota tim kami adalah:
 
-1. Sendy Aldyandyah Septiawan
+1. Sendy Aldyansyah Septiawan
 2. Seprendi Yuher
 3. Syahril Zulpria Awaludin
 4. Yohanes Saputro
